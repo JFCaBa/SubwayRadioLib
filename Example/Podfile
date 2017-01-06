@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SubwayRadioLib_Example' do
+  pod 'SubwayRadioLib', :path => '../'
+
+  target 'SubwayRadioLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

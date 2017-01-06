@@ -1,0 +1,33 @@
+{
+  "name": "SubwayRadioLib",
+  "version": "0.1.0",
+  "summary": "A short description of SubwayRadioLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JFCaBa/SubwayRadioLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JFCaBa": "jfca68@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JFCaBa/SubwayRadioLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SubwayRadioLib/Classes/**/*",
+  "resource_bundles": {
+    "SubwayRadioLib": [
+      "SubwayRadioLib/Assets/*.png"
+    ]
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

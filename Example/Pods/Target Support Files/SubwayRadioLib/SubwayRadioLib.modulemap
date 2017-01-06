@@ -1,0 +1,6 @@
+framework module SubwayRadioLib {
+  umbrella header "SubwayRadioLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

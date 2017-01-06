@@ -32,11 +32,12 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'SubwayRadioLib/Classes/**/*'
   
-  #s.resource_bundles = {
-  #  'SubwayRadioLib' => ['SubwayRadioLib/Assets/*.png']
-  #}
 
-  s.public_header_files = 'Pod/Classes/Public/*.h'
+  s.resource_bundles = {
+    'SubwayRadioLib' => ['SubwayRadioLib/Assets/*.png']
+  }
+
+  #s.public_header_files = 'Pod/Classes/Public/*.h'
   s.frameworks = 'UIKit'
   s.dependency 'AFNetworking', '~> 2.3'
 end

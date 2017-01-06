@@ -42,72 +42,9 @@
 		9323AE442E8479F9299A1235B6F87DC8 /* AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 457AC41409DB67741790BD03BFA7D354 /* AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		95B31D9D71F9E540216811163394F255 /* UIImage+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EADA5DB8B89A20DC28B3320B41F8570 /* UIImage+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		964BFEA9E3E84571F866D24102FEA675 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 114AFB315A676864A107425F120976A8 /* AFURLRequestSerialization.m */; };
-		A12110511E1FF3710025B630 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = A12110501E1FF3710025B630 /* .gitkeep */; };
-		A12110901E1FF38B0025B630 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110521E1FF38A0025B630 /* 3.png */; };
-		A12110911E1FF38B0025B630 /* seek_bar_front.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110531E1FF38A0025B630 /* seek_bar_front.png */; };
-		A12110921E1FF38B0025B630 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110541E1FF38A0025B630 /* 4.png */; };
-		A12110931E1FF38B0025B630 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110551E1FF38A0025B630 /* 5.png */; };
-		A12110941E1FF38B0025B630 /* bg_image.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110561E1FF38A0025B630 /* bg_image.png */; };
-		A12110951E1FF38B0025B630 /* bg_timer.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110571E1FF38A0025B630 /* bg_timer.png */; };
-		A12110961E1FF38B0025B630 /* bg_view.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110581E1FF38A0025B630 /* bg_view.png */; };
-		A12110971E1FF38B0025B630 /* subway_individual_poll_results_final.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110591E1FF38A0025B630 /* subway_individual_poll_results_final.png */; };
-		A12110981E1FF38B0025B630 /* vote_details_nav_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = A121105A1E1FF38A0025B630 /* vote_details_nav_bar.png */; };
-		A12110991E1FF38B0025B630 /* cell_line.png in Resources */ = {isa = PBXBuildFile; fileRef = A121105B1E1FF38A0025B630 /* cell_line.png */; };
-		A121109A1E1FF38B0025B630 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = A121105C1E1FF38A0025B630 /* cloud.png */; };
-		A121109B1E1FF38B0025B630 /* default_image.png in Resources */ = {isa = PBXBuildFile; fileRef = A121105D1E1FF38A0025B630 /* default_image.png */; };
-		A121109C1E1FF38B0025B630 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = A121105E1E1FF38A0025B630 /* facebook.png */; };
-		A121109D1E1FF38B0025B630 /* highVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = A121105F1E1FF38A0025B630 /* highVolume.png */; };
-		A121109E1E1FF38B0025B630 /* iad.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110601E1FF38A0025B630 /* iad.png */; };
-		A121109F1E1FF38B0025B630 /* line.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110611E1FF38A0025B630 /* line.png */; };
-		A12110A01E1FF38B0025B630 /* low-volume-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110621E1FF38A0025B630 /* low-volume-icon.png */; };
-		A12110A11E1FF38B0025B630 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110631E1FF38A0025B630 /* mail.png */; };
-		A12110A21E1FF38B0025B630 /* menu_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110641E1FF38A0025B630 /* menu_icon.png */; };
-		A12110A31E1FF38B0025B630 /* more_tab.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110651E1FF38A0025B630 /* more_tab.png */; };
-		A12110A41E1FF38B0025B630 /* mute.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110661E1FF38A0025B630 /* mute.png */; };
-		A12110A51E1FF38B0025B630 /* no.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110671E1FF38A0025B630 /* no.png */; };
-		A12110A61E1FF38B0025B630 /* noDisabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110681E1FF38A0025B630 /* noDisabled.png */; };
-		A12110A71E1FF38B0025B630 /* NotDownload.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110691E1FF38A0025B630 /* NotDownload.png */; };
-		A12110A81E1FF38B0025B630 /* Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = A121106A1E1FF38A0025B630 /* Pause.png */; };
-		A12110A91E1FF38B0025B630 /* Pause2.png in Resources */ = {isa = PBXBuildFile; fileRef = A121106B1E1FF38A0025B630 /* Pause2.png */; };
-		A12110AA1E1FF38B0025B630 /* play_icon_50x50.png in Resources */ = {isa = PBXBuildFile; fileRef = A121106C1E1FF38A0025B630 /* play_icon_50x50.png */; };
-		A12110AB1E1FF38B0025B630 /* playy.png in Resources */ = {isa = PBXBuildFile; fileRef = A121106D1E1FF38A0025B630 /* playy.png */; };
-		A12110AC1E1FF38B0025B630 /* podcast_tab.png in Resources */ = {isa = PBXBuildFile; fileRef = A121106E1E1FF38A0025B630 /* podcast_tab.png */; };
-		A12110AD1E1FF38B0025B630 /* poll_star.png in Resources */ = {isa = PBXBuildFile; fileRef = A121106F1E1FF38A0025B630 /* poll_star.png */; };
-		A12110AE1E1FF38B0025B630 /* poll_tab copy.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110701E1FF38A0025B630 /* poll_tab copy.png */; };
-		A12110AF1E1FF38B0025B630 /* poll_tab.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110711E1FF38A0025B630 /* poll_tab.png */; };
-		A12110B01E1FF38B0025B630 /* poll_tab_plus_badge.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110721E1FF38A0025B630 /* poll_tab_plus_badge.png */; };
-		A12110B11E1FF38B0025B630 /* Notification_1.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110731E1FF38A0025B630 /* Notification_1.png */; };
-		A12110B21E1FF38B0025B630 /* Notification_2.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110741E1FF38A0025B630 /* Notification_2.png */; };
-		A12110B31E1FF38B0025B630 /* Notification_3.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110751E1FF38A0025B630 /* Notification_3.png */; };
-		A12110B41E1FF38B0025B630 /* banana.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110761E1FF38A0025B630 /* banana.png */; };
-		A12110B51E1FF38B0025B630 /* pineapple.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110771E1FF38A0025B630 /* pineapple.png */; };
-		A12110B61E1FF38B0025B630 /* pear.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110781E1FF38A0025B630 /* pear.png */; };
-		A12110B71E1FF38B0025B630 /* cherries.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110791E1FF38A0025B630 /* cherries.png */; };
-		A12110B81E1FF38B0025B630 /* yscale.png in Resources */ = {isa = PBXBuildFile; fileRef = A121107A1E1FF38A0025B630 /* yscale.png */; };
-		A12110B91E1FF38B0025B630 /* draw.png in Resources */ = {isa = PBXBuildFile; fileRef = A121107B1E1FF38A0025B630 /* draw.png */; };
-		A12110BA1E1FF38B0025B630 /* disclosureArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A121107C1E1FF38A0025B630 /* disclosureArrow.png */; };
-		A12110BB1E1FF38B0025B630 /* question_mark.png in Resources */ = {isa = PBXBuildFile; fileRef = A121107D1E1FF38A0025B630 /* question_mark.png */; };
-		A12110BC1E1FF38B0025B630 /* questionMark.png in Resources */ = {isa = PBXBuildFile; fileRef = A121107E1E1FF38A0025B630 /* questionMark.png */; };
-		A12110BD1E1FF38B0025B630 /* questionMarkBig.png in Resources */ = {isa = PBXBuildFile; fileRef = A121107F1E1FF38A0025B630 /* questionMarkBig.png */; };
-		A12110BE1E1FF38B0025B630 /* radio_tab.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110801E1FF38A0025B630 /* radio_tab.png */; };
-		A12110BF1E1FF38B0025B630 /* request_tab.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110811E1FF38A0025B630 /* request_tab.png */; };
-		A12110C01E1FF38B0025B630 /* results_tab.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110821E1FF38A0025B630 /* results_tab.png */; };
-		A12110C11E1FF38B0025B630 /* seek_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110831E1FF38A0025B630 /* seek_bar.png */; };
-		A12110C21E1FF38B0025B630 /* textfield_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110841E1FF38B0025B630 /* textfield_bg.png */; };
-		A12110C31E1FF38B0025B630 /* textview_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110851E1FF38B0025B630 /* textview_bg.png */; };
-		A12110C41E1FF38B0025B630 /* thumb-green_128.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110861E1FF38B0025B630 /* thumb-green_128.png */; };
-		A12110C51E1FF38B0025B630 /* thumb-red_128.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110871E1FF38B0025B630 /* thumb-red_128.png */; };
-		A12110C61E1FF38B0025B630 /* thumb_down.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110881E1FF38B0025B630 /* thumb_down.png */; };
-		A12110C71E1FF38B0025B630 /* thumb_down_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = A12110891E1FF38B0025B630 /* thumb_down_transparent.png */; };
-		A12110C81E1FF38B0025B630 /* thumb_up.png in Resources */ = {isa = PBXBuildFile; fileRef = A121108A1E1FF38B0025B630 /* thumb_up.png */; };
-		A12110C91E1FF38B0025B630 /* thumb_up_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = A121108B1E1FF38B0025B630 /* thumb_up_transparent.png */; };
-		A12110CA1E1FF38B0025B630 /* twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = A121108C1E1FF38B0025B630 /* twitter.png */; };
-		A12110CB1E1FF38B0025B630 /* volume.png in Resources */ = {isa = PBXBuildFile; fileRef = A121108D1E1FF38B0025B630 /* volume.png */; };
-		A12110CC1E1FF38B0025B630 /* yes.png in Resources */ = {isa = PBXBuildFile; fileRef = A121108E1E1FF38B0025B630 /* yes.png */; };
-		A12110CD1E1FF38B0025B630 /* yesDisabled.png in Resources */ = {isa = PBXBuildFile; fileRef = A121108F1E1FF38B0025B630 /* yesDisabled.png */; };
 		A1D737D6D3D781E98ABFEC6EE0C095EB /* AFSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E22A45AF58559421975884FCB04C98C /* AFSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AAF28BBBFFE51C3037538369B5F1CC9B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BCF1B979AACDB5943E028A7F6C45D6C /* Foundation.framework */; };
-		B079E6ED2F5233679E3FA80CDE0D32A4 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A17D6F1EEB9B85E8FF34B85CE1F6398 /* ReplaceMe.m */; };
+		B079E6ED2F5233679E3FA80CDE0D32A4 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 69E240976D412E419CAA92A2A73FD54D /* ReplaceMe.m */; };
 		B2C535FEBEE83B3ED5EA78CB848A964B /* AFURLResponseSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = 55955BC3DD5E5A8B34E0FE76BA01651F /* AFURLResponseSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B5D4EBCD83C85BF560908DC73AFCC97A /* AFNetworking-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D5E80BB7AD3CDF3B4215CF698ECA501 /* AFNetworking-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B8E64C71559B3F4120760CA40C78A8A8 /* UIButton+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CD830C93513B12193D93249388C9465 /* UIButton+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -118,15 +55,14 @@
 		C60714C11ADDB1F1220DC794451931CA /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71E953A66D2BA6DF92568EEACB051FA4 /* SystemConfiguration.framework */; };
 		C8EA7B27FCA8377BE686BE03C73E3889 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = A363D19C9F8FF2723FBF1B2AE6F4A68E /* UIRefreshControl+AFNetworking.m */; };
 		CF0E8D70D0E6ECB756F7029AE0842E17 /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4004CB328D9B73234395795631AF675A /* AFNetworkActivityIndicatorManager.m */; };
-		D43B2E4B29306BCDFD070B217D7291E7 /* SubwayRadioLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BADE2E6284232AB31F9ED056F3E6BDE8 /* SubwayRadioLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D43B2E4B29306BCDFD070B217D7291E7 /* SubwayRadioLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A2F989D6EEDB6F29604B6035AEEBE789 /* SubwayRadioLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D65865C21F7F118FD65704B9D62D94BE /* UIRefreshControl+AFNetworking.h in Headers */ = {isa = PBXBuildFile; fileRef = D7F87B39AA3969495DC69A7AAF7D40E8 /* UIRefreshControl+AFNetworking.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB5D9F4D439E72DB6BD6359160CDEF3C /* AFNetworkActivityIndicatorManager.h in Headers */ = {isa = PBXBuildFile; fileRef = C711F2F162049BDCC740B3AF11C79B2A /* AFNetworkActivityIndicatorManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E102FB6604F2D85FEA78BAF91D4B97C5 /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 138828BFE2271F973228D96F337454BB /* AFHTTPSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E6C480DAA46D406F8F99C61CB8E8E353 /* Pods-SubwayRadioLib_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B792879B29A4DA958499D1D86E7DFF6 /* Pods-SubwayRadioLib_Example-dummy.m */; };
-		F50946A17C4B0678B3033B433F30EF7E /* SubwayRadioLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FCA1548734B427EEB97AB8CEF2DFFC4A /* SubwayRadioLib-dummy.m */; };
+		F50946A17C4B0678B3033B433F30EF7E /* SubwayRadioLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D3A467A8A546C427BD8989442FD18DB8 /* SubwayRadioLib-dummy.m */; };
 		F82F982A2777014C8FEECF1976A8990F /* Pods-SubwayRadioLib_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D1EA51C9EE2E2BBD8BDD2C1B0E3FAEB5 /* Pods-SubwayRadioLib_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FB789B0B0B7D77CFF802215698BB3FC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BCF1B979AACDB5943E028A7F6C45D6C /* Foundation.framework */; };
-		FEF02FDDB4DBCE3BF2A21442571C526A /* SubwayRadioLib.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 85477C786710029B92F000BFBC6A3B5E /* SubwayRadioLib.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -144,13 +80,6 @@
 			remoteGlobalIDString = 0AE1F6808C07153B1493ADB2F05286CD;
 			remoteInfo = SubwayRadioLib;
 		};
-		83301AFA411E9313B5CC21E49790B422 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C3EB19DF0CF6996C8D2FE5D9A43A460F;
-			remoteInfo = "SubwayRadioLib-SubwayRadioLib";
-		};
 		A8C2D5BE22B9CD902F281CF8C75932EE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
@@ -162,8 +91,9 @@
 
 /* Begin PBXFileReference section */
 		040C09B94F19533FBD391278CB20185D /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0913E38A0D59B461E1A1B8991527E022 /* SubwayRadioLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SubwayRadioLib-prefix.pch"; sourceTree = "<group>"; };
+		056105B4915B42AF25B983B90DC956D7 /* SubwayRadioLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SubwayRadioLib-prefix.pch"; sourceTree = "<group>"; };
 		0DF0EB616D768E0EA085A8F41BB7F89E /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = "<group>"; };
+		0F5C7AF7B9285C974B6A51E06EC3742B /* Pods_SubwayRadioLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SubwayRadioLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		114AFB315A676864A107425F120976A8 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = "<group>"; };
 		12217BAAAE68130C4AAE26F06B28FA87 /* Pods-SubwayRadioLib_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SubwayRadioLib_Example-frameworks.sh"; sourceTree = "<group>"; };
 		12CE35213271C5F17E1B51ECB97E477F /* Pods-SubwayRadioLib_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SubwayRadioLib_Tests.modulemap"; sourceTree = "<group>"; };
@@ -182,17 +112,12 @@
 		3875B2458C661EAD8AEC551369F4F707 /* Pods-SubwayRadioLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SubwayRadioLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3935F527C2D693E1106793B5D7C31FAD /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = "<group>"; };
 		3963381BDC1AA7CE8B2C505AC9C17FDF /* AFSecurityPolicy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = "<group>"; };
-		39B6652EC12561B19276FBED09353CE5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E22A45AF58559421975884FCB04C98C /* AFSecurityPolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = "<group>"; };
 		4004CB328D9B73234395795631AF675A /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFNetworkActivityIndicatorManager.m; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m"; sourceTree = "<group>"; };
 		4242D29645CEDE64E2787C90A6F6807C /* AFURLConnectionOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLConnectionOperation.m; path = AFNetworking/AFURLConnectionOperation.m; sourceTree = "<group>"; };
-		4422BA4D6F9E38C84A837653C7E01392 /* ResourceBundle-SubwayRadioLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SubwayRadioLib-Info.plist"; sourceTree = "<group>"; };
 		457AC41409DB67741790BD03BFA7D354 /* AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = "<group>"; };
-		47C684EBC1389CEB7B93EA04A25B19EC /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A17D6F1EEB9B85E8FF34B85CE1F6398 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		4A518EBE808D9AA8C73682501DE77162 /* AFNetworking.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AFNetworking.xcconfig; sourceTree = "<group>"; };
 		55955BC3DD5E5A8B34E0FE76BA01651F /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = "<group>"; };
-		5AF1C5F981F6233A8338EA912A1C1F1A /* SubwayRadioLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SubwayRadioLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B792879B29A4DA958499D1D86E7DFF6 /* Pods-SubwayRadioLib_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SubwayRadioLib_Example-dummy.m"; sourceTree = "<group>"; };
 		5C358947BFE35B88AEB42B0947FD6464 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPRequestOperation.h; path = AFNetworking/AFHTTPRequestOperation.h; sourceTree = "<group>"; };
 		5D5E80BB7AD3CDF3B4215CF698ECA501 /* AFNetworking-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AFNetworking-umbrella.h"; sourceTree = "<group>"; };
@@ -202,84 +127,89 @@
 		662F2B693F4836F935DF7B3734AABDE6 /* UIProgressView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIProgressView+AFNetworking.h"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h"; sourceTree = "<group>"; };
 		67E7D6563A537614F07218B6756E64FE /* UIActivityIndicatorView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIActivityIndicatorView+AFNetworking.h"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"; sourceTree = "<group>"; };
 		69031405F392DABAC15A65384A25D9F0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69E240976D412E419CAA92A2A73FD54D /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		69FDCA45562D02A8AB196E1718874625 /* UIProgressView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIProgressView+AFNetworking.m"; path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m"; sourceTree = "<group>"; };
 		6C6C169A8FC74FB17DCE7A5549B21FFF /* Pods-SubwayRadioLib_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SubwayRadioLib_Example-resources.sh"; sourceTree = "<group>"; };
 		71E953A66D2BA6DF92568EEACB051FA4 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		777884285590690BB4D2C9E64EE72F22 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7933BED914F3A3F9E9CE6A5BEAD9B336 /* AFNetworking.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AFNetworking.modulemap; sourceTree = "<group>"; };
+		7EB05D413BE5E141EE2A29A5F9190B1B /* SubwayRadioLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SubwayRadioLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		83FFBFEFF24E197ED8F167EE6FB25816 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		85477C786710029B92F000BFBC6A3B5E /* SubwayRadioLib.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SubwayRadioLib.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A5F9AE2CEFF710075C1B4E63B11E9A5 /* Pods-SubwayRadioLib_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SubwayRadioLib_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		8CD830C93513B12193D93249388C9465 /* UIButton+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+AFNetworking.h"; path = "UIKit+AFNetworking/UIButton+AFNetworking.h"; sourceTree = "<group>"; };
+		8F9CA2A56CA700D22A8E276DA0D56A16 /* AFNetworking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AFNetworking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96D58E1D7B0AA67BF9713FE29B22DEEF /* UIKit+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIKit+AFNetworking.h"; path = "UIKit+AFNetworking/UIKit+AFNetworking.h"; sourceTree = "<group>"; };
-		A12110501E1FF3710025B630 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		A12110521E1FF38A0025B630 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
-		A12110531E1FF38A0025B630 /* seek_bar_front.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seek_bar_front.png; sourceTree = "<group>"; };
-		A12110541E1FF38A0025B630 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
-		A12110551E1FF38A0025B630 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
-		A12110561E1FF38A0025B630 /* bg_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_image.png; sourceTree = "<group>"; };
-		A12110571E1FF38A0025B630 /* bg_timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_timer.png; sourceTree = "<group>"; };
-		A12110581E1FF38A0025B630 /* bg_view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_view.png; sourceTree = "<group>"; };
-		A12110591E1FF38A0025B630 /* subway_individual_poll_results_final.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = subway_individual_poll_results_final.png; sourceTree = "<group>"; };
-		A121105A1E1FF38A0025B630 /* vote_details_nav_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vote_details_nav_bar.png; sourceTree = "<group>"; };
-		A121105B1E1FF38A0025B630 /* cell_line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell_line.png; sourceTree = "<group>"; };
-		A121105C1E1FF38A0025B630 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud.png; sourceTree = "<group>"; };
-		A121105D1E1FF38A0025B630 /* default_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default_image.png; sourceTree = "<group>"; };
-		A121105E1E1FF38A0025B630 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
-		A121105F1E1FF38A0025B630 /* highVolume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = highVolume.png; sourceTree = "<group>"; };
-		A12110601E1FF38A0025B630 /* iad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iad.png; sourceTree = "<group>"; };
-		A12110611E1FF38A0025B630 /* line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line.png; sourceTree = "<group>"; };
-		A12110621E1FF38A0025B630 /* low-volume-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "low-volume-icon.png"; sourceTree = "<group>"; };
-		A12110631E1FF38A0025B630 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
-		A12110641E1FF38A0025B630 /* menu_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon.png; sourceTree = "<group>"; };
-		A12110651E1FF38A0025B630 /* more_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more_tab.png; sourceTree = "<group>"; };
-		A12110661E1FF38A0025B630 /* mute.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mute.png; sourceTree = "<group>"; };
-		A12110671E1FF38A0025B630 /* no.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = no.png; sourceTree = "<group>"; };
-		A12110681E1FF38A0025B630 /* noDisabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noDisabled.png; sourceTree = "<group>"; };
-		A12110691E1FF38A0025B630 /* NotDownload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NotDownload.png; sourceTree = "<group>"; };
-		A121106A1E1FF38A0025B630 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause.png; sourceTree = "<group>"; };
-		A121106B1E1FF38A0025B630 /* Pause2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause2.png; sourceTree = "<group>"; };
-		A121106C1E1FF38A0025B630 /* play_icon_50x50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_icon_50x50.png; sourceTree = "<group>"; };
-		A121106D1E1FF38A0025B630 /* playy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playy.png; sourceTree = "<group>"; };
-		A121106E1E1FF38A0025B630 /* podcast_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = podcast_tab.png; sourceTree = "<group>"; };
-		A121106F1E1FF38A0025B630 /* poll_star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poll_star.png; sourceTree = "<group>"; };
-		A12110701E1FF38A0025B630 /* poll_tab copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poll_tab copy.png"; sourceTree = "<group>"; };
-		A12110711E1FF38A0025B630 /* poll_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poll_tab.png; sourceTree = "<group>"; };
-		A12110721E1FF38A0025B630 /* poll_tab_plus_badge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poll_tab_plus_badge.png; sourceTree = "<group>"; };
-		A12110731E1FF38A0025B630 /* Notification_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Notification_1.png; sourceTree = "<group>"; };
-		A12110741E1FF38A0025B630 /* Notification_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Notification_2.png; sourceTree = "<group>"; };
-		A12110751E1FF38A0025B630 /* Notification_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Notification_3.png; sourceTree = "<group>"; };
-		A12110761E1FF38A0025B630 /* banana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banana.png; sourceTree = "<group>"; };
-		A12110771E1FF38A0025B630 /* pineapple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pineapple.png; sourceTree = "<group>"; };
-		A12110781E1FF38A0025B630 /* pear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pear.png; sourceTree = "<group>"; };
-		A12110791E1FF38A0025B630 /* cherries.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cherries.png; sourceTree = "<group>"; };
-		A121107A1E1FF38A0025B630 /* yscale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yscale.png; sourceTree = "<group>"; };
-		A121107B1E1FF38A0025B630 /* draw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = draw.png; sourceTree = "<group>"; };
-		A121107C1E1FF38A0025B630 /* disclosureArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosureArrow.png; sourceTree = "<group>"; };
-		A121107D1E1FF38A0025B630 /* question_mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = question_mark.png; sourceTree = "<group>"; };
-		A121107E1E1FF38A0025B630 /* questionMark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = questionMark.png; sourceTree = "<group>"; };
-		A121107F1E1FF38A0025B630 /* questionMarkBig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = questionMarkBig.png; sourceTree = "<group>"; };
-		A12110801E1FF38A0025B630 /* radio_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = radio_tab.png; sourceTree = "<group>"; };
-		A12110811E1FF38A0025B630 /* request_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = request_tab.png; sourceTree = "<group>"; };
-		A12110821E1FF38A0025B630 /* results_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = results_tab.png; sourceTree = "<group>"; };
-		A12110831E1FF38A0025B630 /* seek_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seek_bar.png; sourceTree = "<group>"; };
-		A12110841E1FF38B0025B630 /* textfield_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = textfield_bg.png; sourceTree = "<group>"; };
-		A12110851E1FF38B0025B630 /* textview_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = textview_bg.png; sourceTree = "<group>"; };
-		A12110861E1FF38B0025B630 /* thumb-green_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumb-green_128.png"; sourceTree = "<group>"; };
-		A12110871E1FF38B0025B630 /* thumb-red_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumb-red_128.png"; sourceTree = "<group>"; };
-		A12110881E1FF38B0025B630 /* thumb_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_down.png; sourceTree = "<group>"; };
-		A12110891E1FF38B0025B630 /* thumb_down_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_down_transparent.png; sourceTree = "<group>"; };
-		A121108A1E1FF38B0025B630 /* thumb_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_up.png; sourceTree = "<group>"; };
-		A121108B1E1FF38B0025B630 /* thumb_up_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_up_transparent.png; sourceTree = "<group>"; };
-		A121108C1E1FF38B0025B630 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
-		A121108D1E1FF38B0025B630 /* volume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = volume.png; sourceTree = "<group>"; };
-		A121108E1E1FF38B0025B630 /* yes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yes.png; sourceTree = "<group>"; };
-		A121108F1E1FF38B0025B630 /* yesDisabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yesDisabled.png; sourceTree = "<group>"; };
+		9C9458D0225D47E72B1E05190F80E256 /* SubwayRadioLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SubwayRadioLib.xcconfig; sourceTree = "<group>"; };
+		A0217FBCA824783D81903EC701BDE356 /* SubwayRadioLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SubwayRadioLib.modulemap; sourceTree = "<group>"; };
+		A12110CF1E1FFC490025B630 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		A12110D01E1FFC490025B630 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		A12110D11E1FFC490025B630 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		A12110D21E1FFC490025B630 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		A12110D31E1FFC490025B630 /* banana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banana.png; sourceTree = "<group>"; };
+		A12110D41E1FFC490025B630 /* bg_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_image.png; sourceTree = "<group>"; };
+		A12110D51E1FFC490025B630 /* bg_timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_timer.png; sourceTree = "<group>"; };
+		A12110D61E1FFC490025B630 /* bg_view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_view.png; sourceTree = "<group>"; };
+		A12110D71E1FFC490025B630 /* cell_line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cell_line.png; sourceTree = "<group>"; };
+		A12110D81E1FFC490025B630 /* cherries.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cherries.png; sourceTree = "<group>"; };
+		A12110D91E1FFC490025B630 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud.png; sourceTree = "<group>"; };
+		A12110DA1E1FFC490025B630 /* default_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default_image.png; sourceTree = "<group>"; };
+		A12110DB1E1FFC490025B630 /* disclosureArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosureArrow.png; sourceTree = "<group>"; };
+		A12110DC1E1FFC490025B630 /* draw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = draw.png; sourceTree = "<group>"; };
+		A12110DD1E1FFC490025B630 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
+		A12110DE1E1FFC490025B630 /* highVolume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = highVolume.png; sourceTree = "<group>"; };
+		A12110DF1E1FFC490025B630 /* iad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iad.png; sourceTree = "<group>"; };
+		A12110E01E1FFC490025B630 /* line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line.png; sourceTree = "<group>"; };
+		A12110E11E1FFC490025B630 /* low-volume-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "low-volume-icon.png"; sourceTree = "<group>"; };
+		A12110E21E1FFC490025B630 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
+		A12110E31E1FFC490025B630 /* menu_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon.png; sourceTree = "<group>"; };
+		A12110E41E1FFC490025B630 /* more_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more_tab.png; sourceTree = "<group>"; };
+		A12110E51E1FFC490025B630 /* mute.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mute.png; sourceTree = "<group>"; };
+		A12110E61E1FFC490025B630 /* no.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = no.png; sourceTree = "<group>"; };
+		A12110E71E1FFC490025B630 /* noDisabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noDisabled.png; sourceTree = "<group>"; };
+		A12110E81E1FFC490025B630 /* NotDownload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NotDownload.png; sourceTree = "<group>"; };
+		A12110E91E1FFC490025B630 /* Notification_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Notification_1.png; sourceTree = "<group>"; };
+		A12110EA1E1FFC490025B630 /* Notification_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Notification_2.png; sourceTree = "<group>"; };
+		A12110EB1E1FFC490025B630 /* Notification_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Notification_3.png; sourceTree = "<group>"; };
+		A12110EC1E1FFC490025B630 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause.png; sourceTree = "<group>"; };
+		A12110ED1E1FFC490025B630 /* Pause2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause2.png; sourceTree = "<group>"; };
+		A12110EE1E1FFC490025B630 /* pear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pear.png; sourceTree = "<group>"; };
+		A12110EF1E1FFC490025B630 /* pineapple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pineapple.png; sourceTree = "<group>"; };
+		A12110F01E1FFC490025B630 /* play_icon_50x50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play_icon_50x50.png; sourceTree = "<group>"; };
+		A12110F11E1FFC490025B630 /* playy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playy.png; sourceTree = "<group>"; };
+		A12110F21E1FFC490025B630 /* podcast_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = podcast_tab.png; sourceTree = "<group>"; };
+		A12110F31E1FFC490025B630 /* poll_star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poll_star.png; sourceTree = "<group>"; };
+		A12110F41E1FFC490025B630 /* poll_tab copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "poll_tab copy.png"; sourceTree = "<group>"; };
+		A12110F51E1FFC490025B630 /* poll_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poll_tab.png; sourceTree = "<group>"; };
+		A12110F61E1FFC490025B630 /* poll_tab_plus_badge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poll_tab_plus_badge.png; sourceTree = "<group>"; };
+		A12110F71E1FFC490025B630 /* question_mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = question_mark.png; sourceTree = "<group>"; };
+		A12110F81E1FFC490025B630 /* questionMark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = questionMark.png; sourceTree = "<group>"; };
+		A12110F91E1FFC490025B630 /* questionMarkBig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = questionMarkBig.png; sourceTree = "<group>"; };
+		A12110FA1E1FFC490025B630 /* radio_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = radio_tab.png; sourceTree = "<group>"; };
+		A12110FB1E1FFC490025B630 /* request_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = request_tab.png; sourceTree = "<group>"; };
+		A12110FC1E1FFC490025B630 /* results_tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = results_tab.png; sourceTree = "<group>"; };
+		A12110FD1E1FFC490025B630 /* seek_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seek_bar.png; sourceTree = "<group>"; };
+		A12110FE1E1FFC490025B630 /* seek_bar_front.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seek_bar_front.png; sourceTree = "<group>"; };
+		A12110FF1E1FFC490025B630 /* subway_individual_poll_results_final.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = subway_individual_poll_results_final.png; sourceTree = "<group>"; };
+		A12111001E1FFC490025B630 /* textfield_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = textfield_bg.png; sourceTree = "<group>"; };
+		A12111011E1FFC490025B630 /* textview_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = textview_bg.png; sourceTree = "<group>"; };
+		A12111021E1FFC490025B630 /* thumb-green_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumb-green_128.png"; sourceTree = "<group>"; };
+		A12111031E1FFC490025B630 /* thumb-red_128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumb-red_128.png"; sourceTree = "<group>"; };
+		A12111041E1FFC490025B630 /* thumb_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_down.png; sourceTree = "<group>"; };
+		A12111051E1FFC490025B630 /* thumb_down_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_down_transparent.png; sourceTree = "<group>"; };
+		A12111061E1FFC490025B630 /* thumb_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_up.png; sourceTree = "<group>"; };
+		A12111071E1FFC490025B630 /* thumb_up_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb_up_transparent.png; sourceTree = "<group>"; };
+		A12111081E1FFC490025B630 /* twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = twitter.png; sourceTree = "<group>"; };
+		A12111091E1FFC490025B630 /* volume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = volume.png; sourceTree = "<group>"; };
+		A121110A1E1FFC490025B630 /* vote_details_nav_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vote_details_nav_bar.png; sourceTree = "<group>"; };
+		A121110B1E1FFC490025B630 /* yes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yes.png; sourceTree = "<group>"; };
+		A121110C1E1FFC490025B630 /* yesDisabled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yesDisabled.png; sourceTree = "<group>"; };
+		A121110D1E1FFC490025B630 /* yscale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yscale.png; sourceTree = "<group>"; };
 		A151745DED7D09C365E2699BA154940D /* UIActivityIndicatorView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIActivityIndicatorView+AFNetworking.m"; path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m"; sourceTree = "<group>"; };
+		A23292EA7CA07EF8D990B9B9327A51A5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2F989D6EEDB6F29604B6035AEEBE789 /* SubwayRadioLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SubwayRadioLib-umbrella.h"; sourceTree = "<group>"; };
 		A363D19C9F8FF2723FBF1B2AE6F4A68E /* UIRefreshControl+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIRefreshControl+AFNetworking.m"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m"; sourceTree = "<group>"; };
 		A8A695098C79A11A48EE128D40755A9C /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFHTTPRequestOperation.m; path = AFNetworking/AFHTTPRequestOperation.m; sourceTree = "<group>"; };
-		A94D94461844E66E78E3EB08ABFCFE77 /* Pods_SubwayRadioLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SubwayRadioLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAF0EF08C9672364B90710F72E093E4E /* Pods-SubwayRadioLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SubwayRadioLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		AB2C3F5A4961D98E7FEF51A4945F2E69 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		AD60E2BCC543A593D4FE1AA19D3CCFE8 /* Pods-SubwayRadioLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SubwayRadioLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -287,27 +217,24 @@
 		B599EA4B3EF4F8E17F83DF030B576065 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B78CCF0B6DB81F206EB338F172DAFA51 /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+AFNetworking.m"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
 		B8DC67FFD3D275F4DF82652F3312F816 /* UIWebView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIWebView+AFNetworking.h"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.h"; sourceTree = "<group>"; };
-		BADE2E6284232AB31F9ED056F3E6BDE8 /* SubwayRadioLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SubwayRadioLib-umbrella.h"; sourceTree = "<group>"; };
 		BBCDB686F306937C504651ECBF7C24D6 /* UIAlertView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIAlertView+AFNetworking.m"; path = "UIKit+AFNetworking/UIAlertView+AFNetworking.m"; sourceTree = "<group>"; };
 		BEC796A6EF07A12A3C1B2C473A6C4743 /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+AFNetworking.h"; path = "UIKit+AFNetworking/UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
 		C172D26C88167115ADB4DCFF2DD1921E /* Pods-SubwayRadioLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SubwayRadioLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C181592B691B103939A6DAF8AFFEA65A /* UIAlertView+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIAlertView+AFNetworking.h"; path = "UIKit+AFNetworking/UIAlertView+AFNetworking.h"; sourceTree = "<group>"; };
 		C1CE62259319F6CD331B029EF7A82654 /* AFHTTPRequestOperationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFHTTPRequestOperationManager.h; path = AFNetworking/AFHTTPRequestOperationManager.h; sourceTree = "<group>"; };
 		C2EA10826276394B40F456EC6102A23D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
-		C34497E4D06138BCFB456B0A2B33CCC3 /* Pods_SubwayRadioLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SubwayRadioLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6CE0EE14B3BCF57B1EC214EF8A2E17E /* AFNetworking-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AFNetworking-dummy.m"; sourceTree = "<group>"; };
 		C711F2F162049BDCC740B3AF11C79B2A /* AFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFNetworkActivityIndicatorManager.h; path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"; sourceTree = "<group>"; };
 		D08E705F7F7F2F533F9A77460F29BF1B /* Pods-SubwayRadioLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SubwayRadioLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D1EA51C9EE2E2BBD8BDD2C1B0E3FAEB5 /* Pods-SubwayRadioLib_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SubwayRadioLib_Tests-umbrella.h"; sourceTree = "<group>"; };
 		D2A9F5CEBB28B52D2BC77AB22F4B37D4 /* AFURLSessionManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = "<group>"; };
+		D2E334AC4019F76FAB885BBE7AC59863 /* Pods_SubwayRadioLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SubwayRadioLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3A467A8A546C427BD8989442FD18DB8 /* SubwayRadioLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SubwayRadioLib-dummy.m"; sourceTree = "<group>"; };
 		D7F87B39AA3969495DC69A7AAF7D40E8 /* UIRefreshControl+AFNetworking.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIRefreshControl+AFNetworking.h"; path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"; sourceTree = "<group>"; };
-		DC9E2CEDCEDC71D6CF36C285736203BB /* SubwayRadioLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SubwayRadioLib.xcconfig; sourceTree = "<group>"; };
 		E76012BE19B2261B02D7B817AE3DECF7 /* AFURLSessionManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = "<group>"; };
 		F088DAEAE16FFEB3665957C7D32C4E1D /* Pods-SubwayRadioLib_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SubwayRadioLib_Tests-resources.sh"; sourceTree = "<group>"; };
 		F710B9B751F58727F33992641D5ADAD7 /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIWebView+AFNetworking.m"; path = "UIKit+AFNetworking/UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		F8957909D16E5A4602FDBE40762E82AA /* Pods-SubwayRadioLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SubwayRadioLib_Example-umbrella.h"; sourceTree = "<group>"; };
-		FCA1548734B427EEB97AB8CEF2DFFC4A /* SubwayRadioLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SubwayRadioLib-dummy.m"; sourceTree = "<group>"; };
-		FEDBBF79CC535C94287131AB84A14D89 /* SubwayRadioLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SubwayRadioLib.modulemap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -316,13 +243,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAF28BBBFFE51C3037538369B5F1CC9B /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2F08FBAF2A269BFECC76ED0515F4965B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,41 +279,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		04126FF32C2350536CE36AF42305F15B /* Products */ = {
+		0D4311BA2A95C81D381D4E57F5731576 /* SubwayRadioLib */ = {
 			isa = PBXGroup;
 			children = (
-				47C684EBC1389CEB7B93EA04A25B19EC /* AFNetworking.framework */,
-				A94D94461844E66E78E3EB08ABFCFE77 /* Pods_SubwayRadioLib_Example.framework */,
-				C34497E4D06138BCFB456B0A2B33CCC3 /* Pods_SubwayRadioLib_Tests.framework */,
-				85477C786710029B92F000BFBC6A3B5E /* SubwayRadioLib.bundle */,
-				5AF1C5F981F6233A8338EA912A1C1F1A /* SubwayRadioLib.framework */,
+				A12110CE1E1FFC490025B630 /* Assets */,
+				30A1E18506399376BACC6BF72846A0C6 /* Classes */,
 			);
-			name = Products;
+			path = SubwayRadioLib;
 			sourceTree = "<group>";
 		};
-		075562824FB6628F3183D87FAD4DAFD5 /* Support Files */ = {
+		25E7D8E90139DE863CEA2A991BD188ED /* SubwayRadioLib */ = {
 			isa = PBXGroup;
 			children = (
-				39B6652EC12561B19276FBED09353CE5 /* Info.plist */,
-				4422BA4D6F9E38C84A837653C7E01392 /* ResourceBundle-SubwayRadioLib-Info.plist */,
-				FEDBBF79CC535C94287131AB84A14D89 /* SubwayRadioLib.modulemap */,
-				DC9E2CEDCEDC71D6CF36C285736203BB /* SubwayRadioLib.xcconfig */,
-				FCA1548734B427EEB97AB8CEF2DFFC4A /* SubwayRadioLib-dummy.m */,
-				0913E38A0D59B461E1A1B8991527E022 /* SubwayRadioLib-prefix.pch */,
-				BADE2E6284232AB31F9ED056F3E6BDE8 /* SubwayRadioLib-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/SubwayRadioLib";
-			sourceTree = "<group>";
-		};
-		22E1EDCCC0AD1B05AF9B751AEEAF822C /* SubwayRadioLib */ = {
-			isa = PBXGroup;
-			children = (
-				D0B88023B80FD6E1DF235FAE15BA73EF /* SubwayRadioLib */,
-				075562824FB6628F3183D87FAD4DAFD5 /* Support Files */,
+				0D4311BA2A95C81D381D4E57F5731576 /* SubwayRadioLib */,
+				7099A516C125F123B7D737E6CFF84534 /* Support Files */,
 			);
 			name = SubwayRadioLib;
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		30A1E18506399376BACC6BF72846A0C6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				69E240976D412E419CAA92A2A73FD54D /* ReplaceMe.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		41FE9D38519BCB808035A9970CB358B0 /* iOS */ = {
@@ -418,18 +328,10 @@
 			name = Security;
 			sourceTree = "<group>";
 		};
-		57570645ACE3F3ED7B9D66F93466B150 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				4A17D6F1EEB9B85E8FF34B85CE1F6398 /* ReplaceMe.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
 		5A25D31EAF57C27A0F0AF6CE9146F0E0 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				22E1EDCCC0AD1B05AF9B751AEEAF822C /* SubwayRadioLib */,
+				25E7D8E90139DE863CEA2A991BD188ED /* SubwayRadioLib */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -467,6 +369,20 @@
 			path = "Target Support Files/Pods-SubwayRadioLib_Tests";
 			sourceTree = "<group>";
 		};
+		7099A516C125F123B7D737E6CFF84534 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A23292EA7CA07EF8D990B9B9327A51A5 /* Info.plist */,
+				A0217FBCA824783D81903EC701BDE356 /* SubwayRadioLib.modulemap */,
+				9C9458D0225D47E72B1E05190F80E256 /* SubwayRadioLib.xcconfig */,
+				D3A467A8A546C427BD8989442FD18DB8 /* SubwayRadioLib-dummy.m */,
+				056105B4915B42AF25B983B90DC956D7 /* SubwayRadioLib-prefix.pch */,
+				A2F989D6EEDB6F29604B6035AEEBE789 /* SubwayRadioLib-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/SubwayRadioLib";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
@@ -474,7 +390,7 @@
 				5A25D31EAF57C27A0F0AF6CE9146F0E0 /* Development Pods */,
 				AD37EE3CE22F2D6A660B5BD65007E786 /* Frameworks */,
 				844675680397CCEFD68E9BBC63ED25F2 /* Pods */,
-				04126FF32C2350536CE36AF42305F15B /* Products */,
+				BE5404B743E318DB947F1C0C4CF334C1 /* Products */,
 				D2AF70370D0270DFEEE0121B255F14EE /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -539,72 +455,72 @@
 			path = "../Target Support Files/AFNetworking";
 			sourceTree = "<group>";
 		};
-		A121104F1E1FF3710025B630 /* Assets */ = {
+		A12110CE1E1FFC490025B630 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				A12110521E1FF38A0025B630 /* 3.png */,
-				A12110531E1FF38A0025B630 /* seek_bar_front.png */,
-				A12110541E1FF38A0025B630 /* 4.png */,
-				A12110551E1FF38A0025B630 /* 5.png */,
-				A12110561E1FF38A0025B630 /* bg_image.png */,
-				A12110571E1FF38A0025B630 /* bg_timer.png */,
-				A12110581E1FF38A0025B630 /* bg_view.png */,
-				A12110591E1FF38A0025B630 /* subway_individual_poll_results_final.png */,
-				A121105A1E1FF38A0025B630 /* vote_details_nav_bar.png */,
-				A121105B1E1FF38A0025B630 /* cell_line.png */,
-				A121105C1E1FF38A0025B630 /* cloud.png */,
-				A121105D1E1FF38A0025B630 /* default_image.png */,
-				A121105E1E1FF38A0025B630 /* facebook.png */,
-				A121105F1E1FF38A0025B630 /* highVolume.png */,
-				A12110601E1FF38A0025B630 /* iad.png */,
-				A12110611E1FF38A0025B630 /* line.png */,
-				A12110621E1FF38A0025B630 /* low-volume-icon.png */,
-				A12110631E1FF38A0025B630 /* mail.png */,
-				A12110641E1FF38A0025B630 /* menu_icon.png */,
-				A12110651E1FF38A0025B630 /* more_tab.png */,
-				A12110661E1FF38A0025B630 /* mute.png */,
-				A12110671E1FF38A0025B630 /* no.png */,
-				A12110681E1FF38A0025B630 /* noDisabled.png */,
-				A12110691E1FF38A0025B630 /* NotDownload.png */,
-				A121106A1E1FF38A0025B630 /* Pause.png */,
-				A121106B1E1FF38A0025B630 /* Pause2.png */,
-				A121106C1E1FF38A0025B630 /* play_icon_50x50.png */,
-				A121106D1E1FF38A0025B630 /* playy.png */,
-				A121106E1E1FF38A0025B630 /* podcast_tab.png */,
-				A121106F1E1FF38A0025B630 /* poll_star.png */,
-				A12110701E1FF38A0025B630 /* poll_tab copy.png */,
-				A12110711E1FF38A0025B630 /* poll_tab.png */,
-				A12110721E1FF38A0025B630 /* poll_tab_plus_badge.png */,
-				A12110731E1FF38A0025B630 /* Notification_1.png */,
-				A12110741E1FF38A0025B630 /* Notification_2.png */,
-				A12110751E1FF38A0025B630 /* Notification_3.png */,
-				A12110761E1FF38A0025B630 /* banana.png */,
-				A12110771E1FF38A0025B630 /* pineapple.png */,
-				A12110781E1FF38A0025B630 /* pear.png */,
-				A12110791E1FF38A0025B630 /* cherries.png */,
-				A121107A1E1FF38A0025B630 /* yscale.png */,
-				A121107B1E1FF38A0025B630 /* draw.png */,
-				A121107C1E1FF38A0025B630 /* disclosureArrow.png */,
-				A121107D1E1FF38A0025B630 /* question_mark.png */,
-				A121107E1E1FF38A0025B630 /* questionMark.png */,
-				A121107F1E1FF38A0025B630 /* questionMarkBig.png */,
-				A12110801E1FF38A0025B630 /* radio_tab.png */,
-				A12110811E1FF38A0025B630 /* request_tab.png */,
-				A12110821E1FF38A0025B630 /* results_tab.png */,
-				A12110831E1FF38A0025B630 /* seek_bar.png */,
-				A12110841E1FF38B0025B630 /* textfield_bg.png */,
-				A12110851E1FF38B0025B630 /* textview_bg.png */,
-				A12110861E1FF38B0025B630 /* thumb-green_128.png */,
-				A12110871E1FF38B0025B630 /* thumb-red_128.png */,
-				A12110881E1FF38B0025B630 /* thumb_down.png */,
-				A12110891E1FF38B0025B630 /* thumb_down_transparent.png */,
-				A121108A1E1FF38B0025B630 /* thumb_up.png */,
-				A121108B1E1FF38B0025B630 /* thumb_up_transparent.png */,
-				A121108C1E1FF38B0025B630 /* twitter.png */,
-				A121108D1E1FF38B0025B630 /* volume.png */,
-				A121108E1E1FF38B0025B630 /* yes.png */,
-				A121108F1E1FF38B0025B630 /* yesDisabled.png */,
-				A12110501E1FF3710025B630 /* .gitkeep */,
+				A12110CF1E1FFC490025B630 /* .gitkeep */,
+				A12110D01E1FFC490025B630 /* 3.png */,
+				A12110D11E1FFC490025B630 /* 4.png */,
+				A12110D21E1FFC490025B630 /* 5.png */,
+				A12110D31E1FFC490025B630 /* banana.png */,
+				A12110D41E1FFC490025B630 /* bg_image.png */,
+				A12110D51E1FFC490025B630 /* bg_timer.png */,
+				A12110D61E1FFC490025B630 /* bg_view.png */,
+				A12110D71E1FFC490025B630 /* cell_line.png */,
+				A12110D81E1FFC490025B630 /* cherries.png */,
+				A12110D91E1FFC490025B630 /* cloud.png */,
+				A12110DA1E1FFC490025B630 /* default_image.png */,
+				A12110DB1E1FFC490025B630 /* disclosureArrow.png */,
+				A12110DC1E1FFC490025B630 /* draw.png */,
+				A12110DD1E1FFC490025B630 /* facebook.png */,
+				A12110DE1E1FFC490025B630 /* highVolume.png */,
+				A12110DF1E1FFC490025B630 /* iad.png */,
+				A12110E01E1FFC490025B630 /* line.png */,
+				A12110E11E1FFC490025B630 /* low-volume-icon.png */,
+				A12110E21E1FFC490025B630 /* mail.png */,
+				A12110E31E1FFC490025B630 /* menu_icon.png */,
+				A12110E41E1FFC490025B630 /* more_tab.png */,
+				A12110E51E1FFC490025B630 /* mute.png */,
+				A12110E61E1FFC490025B630 /* no.png */,
+				A12110E71E1FFC490025B630 /* noDisabled.png */,
+				A12110E81E1FFC490025B630 /* NotDownload.png */,
+				A12110E91E1FFC490025B630 /* Notification_1.png */,
+				A12110EA1E1FFC490025B630 /* Notification_2.png */,
+				A12110EB1E1FFC490025B630 /* Notification_3.png */,
+				A12110EC1E1FFC490025B630 /* Pause.png */,
+				A12110ED1E1FFC490025B630 /* Pause2.png */,
+				A12110EE1E1FFC490025B630 /* pear.png */,
+				A12110EF1E1FFC490025B630 /* pineapple.png */,
+				A12110F01E1FFC490025B630 /* play_icon_50x50.png */,
+				A12110F11E1FFC490025B630 /* playy.png */,
+				A12110F21E1FFC490025B630 /* podcast_tab.png */,
+				A12110F31E1FFC490025B630 /* poll_star.png */,
+				A12110F41E1FFC490025B630 /* poll_tab copy.png */,
+				A12110F51E1FFC490025B630 /* poll_tab.png */,
+				A12110F61E1FFC490025B630 /* poll_tab_plus_badge.png */,
+				A12110F71E1FFC490025B630 /* question_mark.png */,
+				A12110F81E1FFC490025B630 /* questionMark.png */,
+				A12110F91E1FFC490025B630 /* questionMarkBig.png */,
+				A12110FA1E1FFC490025B630 /* radio_tab.png */,
+				A12110FB1E1FFC490025B630 /* request_tab.png */,
+				A12110FC1E1FFC490025B630 /* results_tab.png */,
+				A12110FD1E1FFC490025B630 /* seek_bar.png */,
+				A12110FE1E1FFC490025B630 /* seek_bar_front.png */,
+				A12110FF1E1FFC490025B630 /* subway_individual_poll_results_final.png */,
+				A12111001E1FFC490025B630 /* textfield_bg.png */,
+				A12111011E1FFC490025B630 /* textview_bg.png */,
+				A12111021E1FFC490025B630 /* thumb-green_128.png */,
+				A12111031E1FFC490025B630 /* thumb-red_128.png */,
+				A12111041E1FFC490025B630 /* thumb_down.png */,
+				A12111051E1FFC490025B630 /* thumb_down_transparent.png */,
+				A12111061E1FFC490025B630 /* thumb_up.png */,
+				A12111071E1FFC490025B630 /* thumb_up_transparent.png */,
+				A12111081E1FFC490025B630 /* twitter.png */,
+				A12111091E1FFC490025B630 /* volume.png */,
+				A121110A1E1FFC490025B630 /* vote_details_nav_bar.png */,
+				A121110B1E1FFC490025B630 /* yes.png */,
+				A121110C1E1FFC490025B630 /* yesDisabled.png */,
+				A121110D1E1FFC490025B630 /* yscale.png */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -647,6 +563,17 @@
 			path = "Target Support Files/Pods-SubwayRadioLib_Example";
 			sourceTree = "<group>";
 		};
+		BE5404B743E318DB947F1C0C4CF334C1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8F9CA2A56CA700D22A8E276DA0D56A16 /* AFNetworking.framework */,
+				D2E334AC4019F76FAB885BBE7AC59863 /* Pods_SubwayRadioLib_Example.framework */,
+				0F5C7AF7B9285C974B6A51E06EC3742B /* Pods_SubwayRadioLib_Tests.framework */,
+				7EB05D413BE5E141EE2A29A5F9190B1B /* SubwayRadioLib.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		CE6FC40031933CF1D0545D0AECC8C14A /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
@@ -654,15 +581,6 @@
 				16DED479CEA29303B17893955733E2B1 /* AFNetworkReachabilityManager.m */,
 			);
 			name = Reachability;
-			sourceTree = "<group>";
-		};
-		D0B88023B80FD6E1DF235FAE15BA73EF /* SubwayRadioLib */ = {
-			isa = PBXGroup;
-			children = (
-				A121104F1E1FF3710025B630 /* Assets */,
-				57570645ACE3F3ED7B9D66F93466B150 /* Classes */,
-			);
-			path = SubwayRadioLib;
 			sourceTree = "<group>";
 		};
 		D2AF70370D0270DFEEE0121B255F14EE /* Targets Support Files */ = {
@@ -749,18 +667,16 @@
 			buildPhases = (
 				A2741863FC6CD564A76DED2308289691 /* Sources */,
 				8A6C0E10CE013CF329636ED2D4B1D6C1 /* Frameworks */,
-				C30230607BD5965DA6EC1975CCB1082E /* Resources */,
 				C7E3FC10C9D53CDEFE88D66D35E1C09A /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 				A9E2CBC99BB3AD19BDC174C33D2AE1B6 /* PBXTargetDependency */,
-				693188A5BAC30FB07E3199E5E6B3BC32 /* PBXTargetDependency */,
 			);
 			name = SubwayRadioLib;
 			productName = SubwayRadioLib;
-			productReference = 5AF1C5F981F6233A8338EA912A1C1F1A /* SubwayRadioLib.framework */;
+			productReference = 7EB05D413BE5E141EE2A29A5F9190B1B /* SubwayRadioLib.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		1ED8BE8BD6A53853974A60E1AC8B1019 /* AFNetworking */ = {
@@ -777,7 +693,7 @@
 			);
 			name = AFNetworking;
 			productName = AFNetworking;
-			productReference = 47C684EBC1389CEB7B93EA04A25B19EC /* AFNetworking.framework */;
+			productReference = 8F9CA2A56CA700D22A8E276DA0D56A16 /* AFNetworking.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		45FE09DC01FBB5402FB5CF39455EC7EA /* Pods-SubwayRadioLib_Tests */ = {
@@ -794,25 +710,8 @@
 			);
 			name = "Pods-SubwayRadioLib_Tests";
 			productName = "Pods-SubwayRadioLib_Tests";
-			productReference = C34497E4D06138BCFB456B0A2B33CCC3 /* Pods_SubwayRadioLib_Tests.framework */;
+			productReference = 0F5C7AF7B9285C974B6A51E06EC3742B /* Pods_SubwayRadioLib_Tests.framework */;
 			productType = "com.apple.product-type.framework";
-		};
-		C3EB19DF0CF6996C8D2FE5D9A43A460F /* SubwayRadioLib-SubwayRadioLib */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 63E0BB85C3E7B916D932A42565CA524B /* Build configuration list for PBXNativeTarget "SubwayRadioLib-SubwayRadioLib" */;
-			buildPhases = (
-				18CB51079D80FAD89909170F2A788C71 /* Sources */,
-				2F08FBAF2A269BFECC76ED0515F4965B /* Frameworks */,
-				A2E15BE5FE7E41C679D169E63227A283 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SubwayRadioLib-SubwayRadioLib";
-			productName = "SubwayRadioLib-SubwayRadioLib";
-			productReference = 85477C786710029B92F000BFBC6A3B5E /* SubwayRadioLib.bundle */;
-			productType = "com.apple.product-type.bundle";
 		};
 		DC144CF5E826D54B4FD404DA0C312923 /* Pods-SubwayRadioLib_Example */ = {
 			isa = PBXNativeTarget;
@@ -830,7 +729,7 @@
 			);
 			name = "Pods-SubwayRadioLib_Example";
 			productName = "Pods-SubwayRadioLib_Example";
-			productReference = A94D94461844E66E78E3EB08ABFCFE77 /* Pods_SubwayRadioLib_Example.framework */;
+			productReference = D2E334AC4019F76FAB885BBE7AC59863 /* Pods_SubwayRadioLib_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -850,7 +749,7 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 04126FF32C2350536CE36AF42305F15B /* Products */;
+			productRefGroup = BE5404B743E318DB947F1C0C4CF334C1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -858,100 +757,11 @@
 				DC144CF5E826D54B4FD404DA0C312923 /* Pods-SubwayRadioLib_Example */,
 				45FE09DC01FBB5402FB5CF39455EC7EA /* Pods-SubwayRadioLib_Tests */,
 				0AE1F6808C07153B1493ADB2F05286CD /* SubwayRadioLib */,
-				C3EB19DF0CF6996C8D2FE5D9A43A460F /* SubwayRadioLib-SubwayRadioLib */,
 			);
 		};
 /* End PBXProject section */
 
-/* Begin PBXResourcesBuildPhase section */
-		A2E15BE5FE7E41C679D169E63227A283 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C30230607BD5965DA6EC1975CCB1082E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A12110C91E1FF38B0025B630 /* thumb_up_transparent.png in Resources */,
-				A12110951E1FF38B0025B630 /* bg_timer.png in Resources */,
-				A12110C71E1FF38B0025B630 /* thumb_down_transparent.png in Resources */,
-				A12110A91E1FF38B0025B630 /* Pause2.png in Resources */,
-				A12110901E1FF38B0025B630 /* 3.png in Resources */,
-				A121109E1E1FF38B0025B630 /* iad.png in Resources */,
-				A12110A71E1FF38B0025B630 /* NotDownload.png in Resources */,
-				A12110B21E1FF38B0025B630 /* Notification_2.png in Resources */,
-				A12110BE1E1FF38B0025B630 /* radio_tab.png in Resources */,
-				A12110B31E1FF38B0025B630 /* Notification_3.png in Resources */,
-				A12110C31E1FF38B0025B630 /* textview_bg.png in Resources */,
-				A12110AA1E1FF38B0025B630 /* play_icon_50x50.png in Resources */,
-				A12110AF1E1FF38B0025B630 /* poll_tab.png in Resources */,
-				A12110C41E1FF38B0025B630 /* thumb-green_128.png in Resources */,
-				A12110941E1FF38B0025B630 /* bg_image.png in Resources */,
-				A12110911E1FF38B0025B630 /* seek_bar_front.png in Resources */,
-				A12110C51E1FF38B0025B630 /* thumb-red_128.png in Resources */,
-				A12110C01E1FF38B0025B630 /* results_tab.png in Resources */,
-				A12110A01E1FF38B0025B630 /* low-volume-icon.png in Resources */,
-				A12110AC1E1FF38B0025B630 /* podcast_tab.png in Resources */,
-				A12110C61E1FF38B0025B630 /* thumb_down.png in Resources */,
-				A12110A51E1FF38B0025B630 /* no.png in Resources */,
-				A12110A31E1FF38B0025B630 /* more_tab.png in Resources */,
-				A12110A11E1FF38B0025B630 /* mail.png in Resources */,
-				A12110CC1E1FF38B0025B630 /* yes.png in Resources */,
-				A12110971E1FF38B0025B630 /* subway_individual_poll_results_final.png in Resources */,
-				A12110981E1FF38B0025B630 /* vote_details_nav_bar.png in Resources */,
-				A12110C81E1FF38B0025B630 /* thumb_up.png in Resources */,
-				A12110B71E1FF38B0025B630 /* cherries.png in Resources */,
-				A12110A81E1FF38B0025B630 /* Pause.png in Resources */,
-				A12110AD1E1FF38B0025B630 /* poll_star.png in Resources */,
-				A12110961E1FF38B0025B630 /* bg_view.png in Resources */,
-				A121109C1E1FF38B0025B630 /* facebook.png in Resources */,
-				A12110AB1E1FF38B0025B630 /* playy.png in Resources */,
-				A12110B81E1FF38B0025B630 /* yscale.png in Resources */,
-				A12110A21E1FF38B0025B630 /* menu_icon.png in Resources */,
-				A121109B1E1FF38B0025B630 /* default_image.png in Resources */,
-				A12110A61E1FF38B0025B630 /* noDisabled.png in Resources */,
-				A12110BB1E1FF38B0025B630 /* question_mark.png in Resources */,
-				A12110B11E1FF38B0025B630 /* Notification_1.png in Resources */,
-				A121109D1E1FF38B0025B630 /* highVolume.png in Resources */,
-				A12110B01E1FF38B0025B630 /* poll_tab_plus_badge.png in Resources */,
-				A121109F1E1FF38B0025B630 /* line.png in Resources */,
-				A12110CD1E1FF38B0025B630 /* yesDisabled.png in Resources */,
-				A12110BA1E1FF38B0025B630 /* disclosureArrow.png in Resources */,
-				A12110B51E1FF38B0025B630 /* pineapple.png in Resources */,
-				A12110991E1FF38B0025B630 /* cell_line.png in Resources */,
-				A12110CB1E1FF38B0025B630 /* volume.png in Resources */,
-				A12110BF1E1FF38B0025B630 /* request_tab.png in Resources */,
-				FEF02FDDB4DBCE3BF2A21442571C526A /* SubwayRadioLib.bundle in Resources */,
-				A12110BC1E1FF38B0025B630 /* questionMark.png in Resources */,
-				A12110B41E1FF38B0025B630 /* banana.png in Resources */,
-				A12110931E1FF38B0025B630 /* 5.png in Resources */,
-				A12110AE1E1FF38B0025B630 /* poll_tab copy.png in Resources */,
-				A12110CA1E1FF38B0025B630 /* twitter.png in Resources */,
-				A121109A1E1FF38B0025B630 /* cloud.png in Resources */,
-				A12110A41E1FF38B0025B630 /* mute.png in Resources */,
-				A12110C21E1FF38B0025B630 /* textfield_bg.png in Resources */,
-				A12110BD1E1FF38B0025B630 /* questionMarkBig.png in Resources */,
-				A12110B61E1FF38B0025B630 /* pear.png in Resources */,
-				A12110B91E1FF38B0025B630 /* draw.png in Resources */,
-				A12110921E1FF38B0025B630 /* 4.png in Resources */,
-				A12110511E1FF3710025B630 /* .gitkeep in Resources */,
-				A12110C11E1FF38B0025B630 /* seek_bar.png in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		18CB51079D80FAD89909170F2A788C71 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		37C7A1E318968316C337E480E064CD0D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1011,12 +821,6 @@
 			target = 1ED8BE8BD6A53853974A60E1AC8B1019 /* AFNetworking */;
 			targetProxy = 3F046B089FF4F7E0AD41AAC041F62494 /* PBXContainerItemProxy */;
 		};
-		693188A5BAC30FB07E3199E5E6B3BC32 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "SubwayRadioLib-SubwayRadioLib";
-			target = C3EB19DF0CF6996C8D2FE5D9A43A460F /* SubwayRadioLib-SubwayRadioLib */;
-			targetProxy = 83301AFA411E9313B5CC21E49790B422 /* PBXContainerItemProxy */;
-		};
 		725B9A8FC16202532597E5C6B3318675 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SubwayRadioLib;
@@ -1069,7 +873,7 @@
 		};
 		630665DD367835E61B93296C05973177 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC9E2CEDCEDC71D6CF36C285736203BB /* SubwayRadioLib.xcconfig */;
+			baseConfigurationReference = 9C9458D0225D47E72B1E05190F80E256 /* SubwayRadioLib.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1100,7 +904,7 @@
 		};
 		76E52D728E8289E8C2835C7A18B76A25 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC9E2CEDCEDC71D6CF36C285736203BB /* SubwayRadioLib.xcconfig */;
+			baseConfigurationReference = 9C9458D0225D47E72B1E05190F80E256 /* SubwayRadioLib.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -1236,23 +1040,6 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		9A8E911C6DB4FE1C6ACD45F80BB88171 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC9E2CEDCEDC71D6CF36C285736203BB /* SubwayRadioLib.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SubwayRadioLib";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/SubwayRadioLib/ResourceBundle-SubwayRadioLib-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = SubwayRadioLib;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
 		};
@@ -1397,23 +1184,6 @@
 			};
 			name = Release;
 		};
-		EA3BCE2B3E1EBFB8C5350F078AA6C47D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC9E2CEDCEDC71D6CF36C285736203BB /* SubwayRadioLib.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SubwayRadioLib";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/SubwayRadioLib/ResourceBundle-SubwayRadioLib-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = SubwayRadioLib;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1431,15 +1201,6 @@
 			buildConfigurations = (
 				76E52D728E8289E8C2835C7A18B76A25 /* Debug */,
 				630665DD367835E61B93296C05973177 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		63E0BB85C3E7B916D932A42565CA524B /* Build configuration list for PBXNativeTarget "SubwayRadioLib-SubwayRadioLib" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				9A8E911C6DB4FE1C6ACD45F80BB88171 /* Debug */,
-				EA3BCE2B3E1EBFB8C5350F078AA6C47D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

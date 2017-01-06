@@ -19,11 +19,7 @@
     "ios": "8.0"
   },
   "source_files": "SubwayRadioLib/Classes/**/*",
-  "resource_bundles": {
-    "SubwayRadioLib": [
-      "SubwayRadioLib/Assets/*.png"
-    ]
-  },
+  "public_header_files": "Pod/Classes/Public/*.h",
   "frameworks": "UIKit",
   "dependencies": {
     "AFNetworking": [
